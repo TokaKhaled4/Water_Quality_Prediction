@@ -1,2 +1,4 @@
-# Water_Quality_Prediction
-This my personal machine learning project using python and streamlit for deployment
+# Water Quality Prediction
+## Project Link
+
+Access the live application here: [Project Link](https://waterqualitypredictionapp.streamlit.app/)
